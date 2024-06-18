@@ -6,6 +6,13 @@
   - [Built a small home Network and confgured DNS and DHCP servers on CISCO packet tracer](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Built a honeypot on microsoft azure and used SIEM to monitor attacks and API's to map IP attacks geolocation)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
+<h2> Certifications: </h2>
+<li>Introduction to Cybersecurity CISCO</li>
+<li>Networking Basics CISCO</li>
+<li>Linux Unhatched NDG</li>
+<
+
+
 <h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
