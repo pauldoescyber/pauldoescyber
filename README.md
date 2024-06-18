@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-  - [Build an Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Built an Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Built a small home Network and confgured DNS and DHCP servers on CISCO packet tracer](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Built a honeypot on microsoft azure and used SIEM to monitor attacks and API's to map IP attacks geolocation)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
@@ -10,7 +10,7 @@
 <li>Introduction to Cybersecurity CISCO</li>
 <li>Networking Basics CISCO</li>
 <li>Linux Unhatched NDG</li>
-<
+<li>Scientific computing with python freecodecamp</li>
 
 
 <h2>📺 YouTube Videos</h2>
