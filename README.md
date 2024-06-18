@@ -11,6 +11,7 @@
 <li>Networking Basics CISCO</li>
 <li>Linux Unhatched NDG</li>
 <li>Scientific computing with python freecodecamp</li>
+<li><a href = "https://www.credly.com/badges/67586171-5648-4f6b-b530-7525f0dbd3f4/public_url">Networking Devices and Intial configuration</a> </li>
 
 
 <h2>📺 YouTube Videos</h2>
