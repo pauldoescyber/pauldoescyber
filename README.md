@@ -8,8 +8,8 @@
 
 <h2> Certifications: </h2>
 <li><a href = 'https://www.credly.com/badges/f9f577b3-663c-45e4-837d-5dcd825beba4/public_url'>Introduction to Cybersecurity CISCO</li>
-<li>Networking Basics CISCO</li>
-<li>Linux Unhatched NDG</li>
+<li><a href =''>Networking Basics CISCO</a></li>
+<li><a href = ''>Linux Unhatched NDG</a></li>
 <li>Scientific computing with python freecodecamp</li>
 <li><a href = "https://www.credly.com/badges/67586171-5648-4f6b-b530-7525f0dbd3f4/public_url">Networking Devices and Intial configuration</a> </li>
 
