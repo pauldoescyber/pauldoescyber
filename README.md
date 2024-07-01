@@ -1,8 +1,8 @@
-<h1>Hi, I'm Paul and this is my portfolio! <br/> <a href="https://github.com/joshmadakor1/Jwipe.PowerShell/blob/master/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Paul and this is my portfolio! <br/> <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-  - [Built an Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Built an Active Directory Home Lab](https://github.com/Jwipe.PowerShell/blob/master/)
   - [Built a small home Network and confgured DNS and DHCP servers on CISCO packet tracer](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Built a honeypot on microsoft azure and used SIEM to monitor attacks and API's to map IP attacks geolocation)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
