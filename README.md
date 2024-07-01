@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
-  - [Built an Active Directory Home Lab](https://github.com/Jwipe.PowerShell/blob/master)
+  - [Built an Active Directory Home Lab](https://github.com/joshmadakor1/Jwipe.PowerShell/blob/master/)
   - [Built a small home Network and confgured DNS and DHCP servers on CISCO packet tracer](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Built a honeypot on microsoft azure and used SIEM to monitor attacks and API's to map IP attacks geolocation)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
