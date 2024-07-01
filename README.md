@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul and this is my portfolio! <br/> <a href="">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Paul and this is my portfolio! <br/> <a href="https://www.credly.com/users/paul_isaac">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
