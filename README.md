@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Networking and Cybersecurity   Projects:</h2>
 
-  - [Setting up a WINDOWS server using oracle virtual box](https://github.com/pauldoescyber/windows-server)
+  - [Set up WINDOWS server software using oracle virtual box](https://github.com/pauldoescyber/windows-server)
   - [Built an Active Directory Home Lab](https://github.com/pauldoescyber/ActiveDirectoryLab)
   - [Built a small home Network and configured DNS and DHCP servers on CISCO packet tracer](https://github.com/pauldoescyber/Office-Network)
   - [Elastic  SIEM Configuration and Management](https://github.com/pauldoescyber/Elastic-SIEM-Configuration)
