@@ -5,7 +5,7 @@
   - [Setting up a WINDOWS server using oracle virtual box](https://github.com/pauldoescyber/windows-server)
   - [Built an Active Directory Home Lab](https://github.com/pauldoescyber/ActiveDirectoryLab)
   - [Built a small home Network and configured DNS and DHCP servers on CISCO packet tracer](https://github.com/pauldoescyber/Office-Network)
-  - [Elastic  SIEM Configuration and Management](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Elastic  SIEM Configuration and Management](https://github.com/pauldoescyber/Elastic-SIEM-Configuration)
 
 <h2> Certifications: </h2>
 <li><a href = 'https://www.credly.com/badges/f9f577b3-663c-45e4-837d-5dcd825beba4/public_url'>Introduction to Cybersecurity CISCO</li>
